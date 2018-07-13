@@ -1,0 +1,28 @@
+body{
+    background-color:cadetblue;
+
+    
+}
+.abc{
+  margin:20px;
+  padding:20px;
+}
+h1,h2,p1,h4{
+  padding:7px;
+}
+.abc h2{
+ 
+  background-color: #1abc9c; /* Green */
+    color: #ffffff;
+  padding:20px;
+ 
+  border:2px solid black;
+  /*widows: 50px;*/
+}
+.myp{
+ box-shadow: 2px gray;
+ border:2px solid black;
+}
+#ach,#edu,#pro,#tech,#ext,#con{
+  background-color:lightgoldenrodyellow;
+}
